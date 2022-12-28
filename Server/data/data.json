@@ -1,0 +1,434 @@
+{
+    "Users": [
+        {
+            "username": "J. K. Rowling",
+            "email": "rowling@mail.com",
+            "password": "rowling",
+            "role": "Staff",
+            "phoneNumber": "1234567890",
+            "address": "Scotland"
+        },
+        {
+            "username": "admin1",
+            "email": "admin@mail.com",
+            "password": "admin",
+            "role": "Admin",
+            "phoneNumber": "1111111111",
+            "address": "HQ"
+        },
+        {
+            "username": "James Cameroon",
+            "email": "cameroon@mail.com",
+            "password": "cameroon",
+            "role": "Staff",
+            "phoneNumber": "1111111111",
+            "address": "Ontario"
+        },
+        {
+            "username": "Joseph Kosinski",
+            "email": "kosinski@mail.com",
+            "password": "kosinski",
+            "role": "Staff",
+            "phoneNumber": "1111111111",
+            "address": "Wisconsin"
+        },
+        {
+            "username": "Christopher Nolan",
+            "email": "nolan@mail.com",
+            "password": "nolan",
+            "role": "Staff",
+            "phoneNumber": "1111111111",
+            "address": "London"
+        },
+        {
+            "username": "Antoine Fuqua",
+            "email": "antoine@mail.com",
+            "password": "antoine",
+            "role": "Staff",
+            "phoneNumber": "1111111111",
+            "address": "Pennsylvania"
+        },
+        {
+            "username": "Edward Zwick",
+            "email": "edward@mail.com",
+            "password": "edward",
+            "role": "Staff",
+            "phoneNumber": "1111111111",
+            "address": "Chicago"
+        },
+        {
+            "username": "Clint Eastwood",
+            "email": "clint@mail.com",
+            "password": "clint",
+            "role": "Staff",
+            "phoneNumber": "1111111111",
+            "address": "San Fransisco"
+        },
+        {
+            "username": "Neil Burger",
+            "email": "neil@mail.com",
+            "password": "neil",
+            "role": "Staff",
+            "phoneNumber": "1111111111",
+            "address": "Greenwich"
+        },
+        {
+            "username": "Peter Morgan",
+            "email": "peter@mail.com",
+            "password": "peter",
+            "role": "Staff",
+            "phoneNumber": "1111111111",
+            "address": "London"
+        },
+        {
+            "username": "Wes Ball",
+            "email": "wes@mail.com",
+            "password": "wes",
+            "role": "Staff",
+            "phoneNumber": "1111111111",
+            "address": "London"
+        },
+        {
+            "username": "Suzanne Collins",
+            "email": "suzanne@mail.com",
+            "password": "suzanne",
+            "role": "Staff",
+            "phoneNumber": "1111111111",
+            "address": "Hartford"
+        },
+        {
+            "username": "John Doe",
+            "email": "john@mail.com",
+            "password": "john",
+            "role": "Customer",
+            "phoneNumber": "1111111111",
+            "address": "New York"
+        },
+        {
+            "username": "Tom Hooper",
+            "email": "tom@mail.com",
+            "password": "tom",
+            "role": "Staff",
+            "phoneNumber": "1111111111",
+            "address": "London"
+        },
+        {
+            "username": "Edgar Wright",
+            "email": "edgar@mail.com",
+            "password": "edgar",
+            "role": "Staff",
+            "phoneNumber": "1111111111",
+            "address": "Dorset"
+        },
+        {
+            "username": "Kinji Fukasaku",
+            "email": "kinji@mail.com",
+            "password": "kinji",
+            "role": "Staff",
+            "phoneNumber": "1111111111",
+            "address": "Mito"
+        },
+        {
+            "username": "Coryn Hardy",
+            "email": "coryn@mail.com",
+            "password": "coryn",
+            "role": "Staff",
+            "phoneNumber": "1111111111",
+            "address": "United Kingdom"
+        }
+        ,
+        {
+            "username": "Lee Unkrich",
+            "email": "lee@mail.com",
+            "password": "lee",
+            "role": "Staff",
+            "phoneNumber": "1111111111",
+            "address": "Cleveland"
+        },
+        {
+            "username": "Garth Jennings",
+            "email": "garth@mail.com",
+            "password": "garth",
+            "role": "Staff",
+            "phoneNumber": "1111111111",
+            "address": "Essex"
+        }
+    ],
+    "Movies": [
+        {
+            "title": "Top Gun: Maverick",
+            "synopsis": "After thirty years, Maverick is still pushing the envelope as a top naval aviator, but must confront ghosts of his past when he leads TOP GUN's elite graduates on a mission that demands the ultimate sacrifice from those chosen to fly it.",
+            "trailerUrl": "https://www.imdb.com/title/tt1745960/",
+            "imgUrl": "https://amc-theatres-res.cloudinary.com/v1620069959/amc-cdn/production/2/movies/66500/66491/PosterDynamic/123914.jpg",
+            "rating": 8,
+            "genreId": 2,
+            "authorId": 4
+        },
+        {
+            "title": "Coco",
+            "synopsis": "Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer.",
+            "trailerUrl": "https://www.imdb.com/title/tt2380307/",
+            "imgUrl": "https://m.media-amazon.com/images/M/MV5BYjQ5NjM0Y2YtNjZkNC00ZDhkLWJjMWItN2QyNzFkMDE3ZjAxXkEyXkFqcGdeQXVyODIxMzk5NjA@._V1_FMjpg_UX1000_.jpg",
+            "rating": 8,
+            "genreId": 9,
+            "authorId": 18
+        },
+        {
+            "title": "Les Misérables",
+            "synopsis": "In 19th-century France, Jean Valjean, who for decades has been hunted by the ruthless policeman Javert after breaking parole, agrees to care for a factory worker's daughter. The decision changes their lives forever.",
+            "trailerUrl": "https://www.imdb.com/title/tt1707386/",
+            "imgUrl": "https://www.wheninmanila.com/wp-content/uploads/2013/01/Les-Miserables-One-Sheet-691x1024.jpeg",
+            "rating": 7,
+            "genreId": 6,
+            "authorId": 14
+        },
+        {
+            "title": "The Crown",
+            "synopsis": "Follows the political rivalries and romance of Queen Elizabeth II's reign and the events that shaped the second half of the twentieth century.",
+            "trailerUrl": "https://www.imdb.com/title/tt4786824/",
+            "imgUrl": "https://static1.tribute.ca/poster/660x980/the-crown-netflix-121503.jpg",
+            "rating": 8,
+            "genreId": 13,
+            "authorId": 10
+        },
+        {
+            "title": "The Nun",
+            "synopsis": "A priest with a haunted past and a novice on the threshold of her final vows are sent by the Vatican to investigate the death of a young nun in Romania and confront a malevolent force in the form of a demonic nun.",
+            "trailerUrl": "https://www.imdb.com/title/tt5814060/",
+            "imgUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/78e3b466891157.5b26a37ceebf0.jpg",
+            "rating": 5,
+            "genreId": 5,
+            "authorId": 17
+        },
+        {
+            "title": "Sing 2",
+            "synopsis": "Buster Moon and his friends must persuade reclusive rock star Clay Calloway to join them for the opening of a new show.",
+            "trailerUrl": "https://www.imdb.com/title/tt6467266/?ref_=adv_li_tt",
+            "imgUrl": "https://fs1.extraimage.org/2022/01/08/MV5BOTgzYzA3NWItYzkxZC00OWQ2LTkxNTItODMyNmMxNTNkZTMxXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_0cfd518f973b6071.jpg",
+            "rating": 7,
+            "genreId": 4,
+            "authorId": 19
+        },
+        {
+            "title": "Shaun of The Dead",
+            "synopsis": "The uneventful, aimless lives of a London electronics salesman and his layabout roommate are disrupted by the zombie apocalypse.",
+            "trailerUrl": "https://www.imdb.com/title/tt0365748/?ref_=ttls_li_tt",
+            "imgUrl": "https://4.bp.blogspot.com/-AXd1u4x-gJo/We7Miq4WoNI/AAAAAAAAGEY/4H2EyRz36q4j1A4CPKTxDmmalgMZc_dHwCLcBGAs/s1600/shaun_of_the_dead.jpg",
+            "rating": 8,
+            "genreId": 3,
+            "authorId": 15
+        },
+        {
+            "title": "Battle Royale",
+            "synopsis": "In the future, the Japanese government captures a class of ninth-grade students and forces them to kill each other under the revolutionary Battle Royale act.",
+            "trailerUrl": "https://www.imdb.com/title/tt0266308/?ref_=ttls_li_tt",
+            "imgUrl": "https://image.tmdb.org/t/p/original/5pUDghoj7v9OQTmSaf212Oe94Az.jpg",
+            "rating": 7,
+            "genreId": 11,
+            "authorId": 16
+        },
+        {
+            "title": "Tears of the Sun",
+            "synopsis": "A Special-Ops commander leads his team into the Nigerian jungle in order to rescue a doctor who will only join them if they agree to save 70 refugees too.",
+            "trailerUrl": "https://www.imdb.com/title/tt0314353/",
+            "imgUrl": "https://i.pinimg.com/originals/ca/14/6b/ca146b8e47c2a8591b8dab082e5c53f2.jpg",
+            "rating": 6,
+            "genreId": 8,
+            "authorId": 6
+        },
+        {
+            "title": "Titanic",
+            "synopsis": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
+            "trailerUrl": "https://www.imdb.com/title/tt0120338/",
+            "imgUrl": "https://originalvintagemovieposters.com/wp-content/uploads/2020/02/TITANIC-8567-scaled.jpg",
+            "rating": 7,
+            "genreId": 7,
+            "authorId": 3
+        },
+        {
+            "title": "Interstellar",
+            "synopsis": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+            "trailerUrl": "https://www.imdb.com/title/tt0816692/",
+            "imgUrl": "https://m.media-amazon.com/images/M/MV5BZWFhMWM0MmYtZTU0MC00ZWQwLWEyMGMtNzU0ZDUzOTk5ODVkXkEyXkFqcGdeQXVyNjUxNDQwMzA@._V1_FMjpg_UY1018_.jpg",
+            "rating": 8,
+            "genreId": 10,
+            "authorId": 5
+        },
+        {
+            "title": "Harry Potter and the Sorcerer's Stone",
+            "synopsis": "An orphaned boy enrolls in a school of wizardry, where he learns the truth about himself, his family and the terrible evil that haunts the magical world.",
+            "trailerUrl": "https://www.imdb.com/title/tt0241527/?ref_%3Dnv_sr_1",
+            "imgUrl": "https://m.media-amazon.com/images/M/MV5BMzkyZGFlOWQtZjFlMi00N2YwLWE2OWQtYTgxY2NkNmM1NjMwXkEyXkFqcGdeQXVyNjY1NTM1MzA@._V1_FMjpg_UX1000_.jpg",
+            "rating": 7,
+            "genreId": 1,
+            "authorId": 1
+        },
+        {
+            "title": "Harry Potter and the Chamber of Secrets",
+            "synopsis": "An ancient prophecy seems to be coming true when a mysterious presence begins stalking the corridors of a school of magic and leaving its victims paralyzed.",
+            "trailerUrl": "https://www.imdb.com/title/tt0295297/",
+            "imgUrl": "https://image.tmdb.org/t/p/original/n6zpzAOoGx3kYrEzgAMHQZyF5cE.jpg",
+            "rating": 7,
+            "genreId": 1,
+            "authorId": 1
+        },
+        {
+            "title": "Harry Potter and the Prisoner of Azkaban",
+            "synopsis": "Harry Potter, Ron and Hermione return to Hogwarts School of Witchcraft and Wizardry for their third year of study, where they delve into the mystery surrounding an escaped prisoner who poses a dangerous threat to the young wizard.",
+            "trailerUrl": "https://www.imdb.com/title/tt0304141/",
+            "imgUrl": "https://image.tmdb.org/t/p/original/r2DnP3uSvgmU1IffKK9sHBVGYnT.jpg",
+            "rating": 8,
+            "genreId": 1,
+            "authorId": 1
+        },
+        {
+            "title": "Harry Potter and the Goblet of Fire",
+            "synopsis": "Harry Potter finds himself competing in a hazardous tournament between rival schools of magic, but he is distracted by recurring nightmares.",
+            "trailerUrl": "https://www.imdb.com/title/tt0330373/",
+            "imgUrl": "https://4.bp.blogspot.com/-DUjWkY6P1qI/T3qh1kFgxLI/AAAAAAAAAI4/xMyfzKAy1ms/s1600/harry-potter-and-the-goblet-of-fire.jpg",
+            "rating": 7,
+            "genreId": 1,
+            "authorId": 1
+        },
+        {
+            "title": "Harry Potter and the Order of the Phoenix",
+            "synopsis": "With their warning about Lord Voldemort's return scoffed at, Harry and Dumbledore are targeted by the Wizard authorities as an authoritarian bureaucrat slowly seizes power at Hogwarts.",
+            "trailerUrl": "https://www.imdb.com/title/tt0373889/",
+            "imgUrl": "https://3.bp.blogspot.com/-TBwId-TERHA/VdcQTwfc0BI/AAAAAAAIjg4/7V485ZODB58/s1600/HarryPotterOrderOfThePhoenix.jpg",
+            "rating": 7,
+            "genreId": 1,
+            "authorId": 1
+        },
+        {
+            "title": "Harry Potter and the Half-Blood Prince",
+            "synopsis": "As Harry Potter begins his sixth year at Hogwarts, he discovers an old book marked as the property of the Half-Blood Prince and begins to learn more about Lord Voldemort's dark past.",
+            "trailerUrl": "https://www.imdb.com/title/tt0417741/",
+            "imgUrl": "https://image.tmdb.org/t/p/original/nCUyhP36H3FmpkREFrBaixNZsPb.jpg",
+            "rating": 7,
+            "genreId": 1,
+            "authorId": 1
+        },
+        {
+            "title": "Harry Potter and the Deathly Hallows: Part 1",
+            "synopsis": "As Harry, Ron and Hermione race against time and evil to destroy the Horcruxes, they uncover the existence of the three most powerful objects in the wizarding world: the Deathly Hallows.",
+            "trailerUrl": "https://www.imdb.com/title/tt0926084/?ref_=tt_pg",
+            "imgUrl": "https://3.bp.blogspot.com/-xlDgxiaLOeo/UNnDJve5mMI/AAAAAAAANA0/w8uSMKthjpo/s1600/936full-harry-potter-and-the-deathly-hallows_-part-1-poster.jpg",
+            "rating": 7,
+            "genreId": 1,
+            "authorId": 1
+        },
+        {
+            "title": "Harry Potter and the Deathly Hallows: Part 2",
+            "synopsis": "Harry, Ron, and Hermione search for Voldemort's remaining Horcruxes in their effort to destroy the Dark Lord as the final battle rages on at Hogwarts.",
+            "trailerUrl": "https://www.imdb.com/title/tt1201607/",
+            "imgUrl": "https://images.moviesanywhere.com/5f0537520f90b687fc5db7f241affc4c/0280fd81-6b8a-49cc-9b81-5154eee498dc.jpg",
+            "rating": 8,
+            "genreId": 1,
+            "authorId": 1
+        },
+        {
+            "title": "The Last Samurai",
+            "synopsis": "An American military advisor embraces the Samurai culture he was hired to destroy after he is captured in battle.",
+            "trailerUrl": "https://www.imdb.com/title/tt0325710/",
+            "imgUrl": "https://image.tmdb.org/t/p/original/tGI6kqOIDgTw4DhEhGhV542VGf3.jpg",
+            "rating": 7,
+            "genreId": 8,
+            "authorId": 7
+        },
+        {
+            "title": "American Sniper",
+            "synopsis": "Navy S.E.A.L. sniper Chris Kyle's pinpoint accuracy saves countless lives on the battlefield and turns him into a legend. Back home with his family after four tours of duty, however, Chris finds that it is the war he can't leave behind.",
+            "trailerUrl": "https://www.imdb.com/title/tt2179136/",
+            "imgUrl": "https://static0.colliderimages.com/wordpress/wp-content/uploads/american-sniper-poster.jpg",
+            "rating": 7,
+            "genreId": 8,
+            "authorId": 8
+        },
+        {
+            "title": "Divergent",
+            "synopsis": "In a world divided by factions based on virtues, Tris learns she's Divergent and won't fit in. When she discovers a plot to destroy Divergents, Tris and the mysterious Four must find out what makes Divergents dangerous before it's too late.",
+            "trailerUrl": "https://www.imdb.com/title/tt1840309/",
+            "imgUrl": "https://www.newdvdreleasedates.com/images/posters/large/divergent-2014-16.jpg",
+            "rating": 6,
+            "genreId": 12,
+            "authorId": 9
+        },
+        {
+            "title": "The Maze Runner",
+            "synopsis": "Thomas is deposited in a community of boys after his memory is erased, soon learning they're all trapped in a maze that will require him to join forces with fellow runners for a shot at escape.",
+            "trailerUrl": "https://www.imdb.com/title/tt1790864/",
+            "imgUrl": "https://media.movieassets.com/static/images/items/movies/posters/877a7fa5ad000366c007257857bb9075.jpg",
+            "rating": 6,
+            "genreId": 12,
+            "authorId": 11
+        },
+        {
+            "title": "The Hunger Games",
+            "synopsis": "Katniss Everdeen voluntarily takes her younger sister's place in the Hunger Games: a televised competition in which two teenagers from each of the twelve Districts of Panem are chosen at random to fight to the death.",
+            "trailerUrl": "https://www.imdb.com/title/tt1392170/",
+            "imgUrl": "https://static0.colliderimages.com/wordpress/wp-content/uploads/the-hunger-games-poster1.jpg",
+            "rating": 7,
+            "genreId": 2,
+            "authorId": 12
+        },
+        {
+            "title": "The Hunger Games: Catching Fire",
+            "synopsis": "Katniss Everdeen and Peeta Mellark become targets of the Capitol after their victory in the 74th Hunger Games sparks a rebellion in the Districts of Panem.",
+            "trailerUrl": "https://1.bp.blogspot.com/-4EJcEbFZjDE/VaiK38kRaUI/AAAAAAAAC9Y/HjG2kldj0MI/s1600/The-Hunger-Games-Catching-Fire-Movie-Poster.jpg",
+            "imgUrl": "https://1.bp.blogspot.com/-4EJcEbFZjDE/VaiK38kRaUI/AAAAAAAAC9Y/HjG2kldj0MI/s1600/The-Hunger-Games-Catching-Fire-Movie-Poster.jpg",
+            "rating": 7,
+            "genreId": 2,
+            "authorId": 12
+        },
+        {
+            "title": "The Hunger Games: Mockingjay - Part 1",
+            "synopsis": "Katniss Everdeen is in District 13 after she shatters the games forever. Under the leadership of President Coin and the advice of her trusted friends, Katniss spreads her wings as she fights to save Peeta and a nation moved by her courage.",
+            "trailerUrl": "https://www.imdb.com/title/tt1951265/",
+            "imgUrl": "https://static0.colliderimages.com/wordpress/wp-content/uploads/the-hunger-games-mockingjay-part-1-final-poster.jpg",
+            "rating": 6,
+            "genreId": 2,
+            "authorId": 12
+        }
+    ],
+    "Genres": [
+        {
+            "name": "Fantasy"
+        },
+        {
+            "name": "Action"
+        },
+        {
+            "name": "Comedy"
+        },
+        {
+            "name": "Family"
+        },
+        {
+            "name": "Horror"
+        },
+        {
+            "name": "Drama"
+        },
+        {
+            "name": "Romance"
+        },
+        {
+            "name": "War"
+        },
+        {
+            "name": "Animation"
+        },
+        {
+            "name": "Sci-Fi"
+        },
+        {
+            "name": "Thriller"
+        },
+        {
+            "name": "Adventure"
+        },
+        {
+            "name": "History"
+        }
+    ]
+}

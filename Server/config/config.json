@@ -1,0 +1,22 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "postgres",
+    "database": "db_movies",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "postgres",
+    "database": "db_movie_test",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "use_env_variable": "DATABASE_URL"
+  }
+}
+
+
+
